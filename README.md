@@ -2,6 +2,9 @@
 
 In this project, we will perform an analysis on the behavior of instacart shoppers. We have the following data:
 
+## Project Goal
+Your mission is to clean up the data and prepare a report that gives insight into the shopping habits of Instacart customers. After answering each question, write a brief explanation of your results in a markdown cell of your Jupyter notebook.
+
 ## Data Description
 
 
